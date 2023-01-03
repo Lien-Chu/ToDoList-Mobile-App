@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uRVXCnCbOygF5My52u0/bmknyrDLHD9BB4qIeJnXtr/gwshpSNfxu2OsYv98zAxgppKROVdzlrfe6dfhe8VkNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\liarn\\source\\Mobile\\ToDoList\\ToDoList\\ToDoList.iOS\\ToDoList.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liarn\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\liarn\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\liarn\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
+    "C:\\Users\\liarn\\.nuget\\packages\\xamarin.forms.inputkit\\4.1.6\\xamarin.forms.inputkit.4.1.6.nupkg.sha512"
+  ],
+  "logs": []
+}
